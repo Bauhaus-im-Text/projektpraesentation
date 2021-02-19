@@ -29,7 +29,7 @@ url: https://CSeidel309.github.io/
 # use baseurl to add subsection of the domain, e.g. /timelinejs-template
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:/projektpraesentation.git
+baseurl:/projektpraesentation
 # location of code, the full url to your github repository
 source-code: https://github.com/Bauhaus-im-Text/projektpraesentation
 
