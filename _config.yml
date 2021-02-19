@@ -12,9 +12,8 @@
 title: Bauhaus im Text
 description: "Ein Projekt der Stiftung Bauhaus Dessau, gefördert durch das Ministerium für Wirtschaft, Wissenschaft und Digitalisierung des Langdes Sachsen-Anhalt"
 year: 2021
-author: 
-  name: Florian Strob
-  email: strob@bauhaus-dessau.de 
+author: Florian Strob
+
 # add search box to navbar, true/false
 search: true
 
