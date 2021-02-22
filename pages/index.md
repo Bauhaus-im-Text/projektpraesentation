@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: page
 ---
 
 Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, sei es in Architektur, Design, Kunst, Pädagogik oder Theater. Darüber hinaus hat das Bauhaus auch ein bedeutendes textliches Erbe hinterlassen, dem bislang eher ein sekundärer Charakter in der Betrachtung der Bauten, Objekte und Bilder zugekommen ist. Das Verfassen und Veröffentlichen theoretischer wie auch literarischer und administrativer Texte war jedoch eines der Wesensmerkmale des Bauhauses als einer Schule der Moderne. Beinahe alle Lehrenden und nicht wenige der Studierenden haben Wesentliches in Texten dargelegt. Diese Texte müssen zum integralen Bestandteil ihrer Arbeit und Lehre gezählt werden; eigene Buch- und Zeitschriftenreihen zeugen in exemplarischer Weise davon.
