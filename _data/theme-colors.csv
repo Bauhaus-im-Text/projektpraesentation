@@ -1,8 +1,8 @@
 color_class,color
-primary,
+primary, white
 secondary,
 success,
-info,
+info, white
 warning,
 danger,
 light,
