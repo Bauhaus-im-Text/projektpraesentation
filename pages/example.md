@@ -1,50 +1,36 @@
 ---
-title: Example Page
-nav: Example
-nav_order: 1
+title: Team
+nav: Team
+nav_order: 2
 ---
 
-Write pages in Markdown.
 
-## Heading Two 
+Dr. Laura Gieser
+Kunsthistorikerin
+Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
+gieser@bauhaus-dessau.de
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+Karoline Lemke
+Editionswissenschaftlerin
+Entwicklung und Koordination der Editionen und digitalen Publikationen
+lemke@bauhaus-dessau.de
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Dr. Andreas Schätzke
+Architekturhistoriker
+Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
+schaetzke@bauhaus-dessau.de
 
-### Lists 
+Clarissa Seidel
+Projektmanagerin
+seidel@bauhaus-dessau.de
 
-A bullet list is created using `*`, `+`, or `-`, like:
+Dr. Florian Strob
+Leiter der Pilotprojekte Bauhaus im Text
+Wissenschaftlicher Mitarbeiter im Direktorat der Stiftung Bauhaus Dessau
+The New City. Principles of Planning (1944) von Ludwig Hilberseimer
+strob@bauhaus-dessau.de
 
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-Horizontal rule:
-
---------------
-
-{% include figure.html img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png" alt="white cat" caption="I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png)." %}
-
-> A block quote.
-> Is like this.
-{:.blockquote}
-
-### A Table
-
-| header | column a | column b |
-| --- | --- | --- |
-| dogs | 3 | 6 |
-| cats | 3 | 6 |
-| muffins | 15 | 30 |
-{:.table .table-striped}
+Wolfgang Thöner
+Leiter der Sammlung der Stiftung Bauhaus Dessau
+bauhaus. sprachrohr der studierenden. organ der kostufra (1930-1932)
+thoener@bauhaus-dessau.de
