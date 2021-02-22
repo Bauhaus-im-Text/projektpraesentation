@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Projekt
 layout: page
 ---
 
