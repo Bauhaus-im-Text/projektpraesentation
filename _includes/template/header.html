@@ -6,7 +6,14 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-       
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav mr-auto">
+                {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav' | sort: 'nav_order' %}
+                {% for p in nav_pages %}
+                <li class="nav-item{% if page.url == p.url %} active{% endif %}">
+                <a class="nav-link" href="{{ p.url | relative_url }}">{% if p.nav == true %}{{ p.title }}{% else %}{{ p.nav }}{% endif %}</a>
+                </li>
+                {% endfor %}
             </ul>
             {% if site.search == true %}
             <script>
