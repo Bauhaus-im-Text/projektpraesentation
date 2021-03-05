@@ -1,4 +1,12 @@
 <nav class="navbar navbar-light navbar-expand-md" style="background-color: #ffff;">
+    .navbar-custom {
+        background-color: #ff5500;
+    }
+    /* change the brand and text color */
+    .navbar-custom .navbar-brand,
+    .navbar-custom .navbar-text {
+        color: rgba(0,0,0,1);
+   }
     <div class="container">
         <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
 
