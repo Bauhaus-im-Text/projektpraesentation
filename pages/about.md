@@ -21,7 +21,7 @@ innovativen, textbasierten Zugang zum Bauhaus verdeutlichen und seine Möglichke
 Forschung aufzeigen sollen.
 
 
-## Edition: bauhaus. sprachrohr der studierenden. organ der kostufra (1930-1932)
+## Edition: bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)
 
 Anhand der Zeitschrift *bauhaus. sprachrohr der studierenden. organ der kostufra*, der Zeitschrift kommunistischer 
 Studierender, wird das bis heute viel und kontrovers diskutierte politische Leben und Wirken am historischen Bauhaus 

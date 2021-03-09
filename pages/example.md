@@ -32,5 +32,5 @@ strob@bauhaus-dessau.de
 
 Wolfgang Thöner
 Leiter der Sammlung der Stiftung Bauhaus Dessau
-bauhaus. sprachrohr der studierenden. organ der kostufra (1930-1932)
+bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)
 thoener@bauhaus-dessau.de
